@@ -1,0 +1,8 @@
+# Wedding
+This is the
+file being tested
+if it can be read
+or not.
+So let's see
+what happens 
+next.
